@@ -12,7 +12,7 @@ We will (usually) assume that you're using VS Code to run your notebooks and cod
 
 ## Setting up VS Code
 
-Here's a screen recording that shows how to setup your VS Code: 
+[![Here's a screen recording that shows how to setup your VS Code](https://img.youtube.com/vi/utshQfeDbWw/0.jpg)](https://www.youtube.com/embed/utshQfeDbWw)
 
 ## Setting your paths
 
