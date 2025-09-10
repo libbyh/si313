@@ -19,3 +19,6 @@ Here's a screen recording of me setting up my VS Code environment. First, I clon
 ## Setting your paths
 
 Before running any of the notebooks, you should start with [notebooks/start_here.ipynb](notebooks/start_here.ipynb) to make sure your path is setup correctly.
+
+
+# TEST
