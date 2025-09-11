@@ -53,17 +53,17 @@ Step 3. Search for the Jupyter extension from Microsoft and install
 
 Step 1. Select the Explorer on the left of VSCode
 
-<img title="explorer_button" alt="explorer tab in VSCode" src="../images/explorer_icon.png" width = "25">
+<img title="explorer_button" alt="explorer tab in VSCode" src="./images/explorer_icon.png" width = "25">
 
 Step 2. Open a folder/directory if none appears in the Explorer box 
 
-<img title="explorer_box_no_folder" alt="Explorer box with no folder open in VSCode" src="../images/explorer_box.png" width = "200">
+<img title="explorer_box_no_folder" alt="Explorer box with no folder open in VSCode" src="./images/explorer_box.png" width = "200">
 
 Step 3. Mouse over the directories in the Explorer box
 
 Step 4. Click the page with a plus icon to create a file and input a name ending with the Jupyter notebook file extension (ex. "filename.ipynb")
 
-<img title="explorer_box_moused_over" alt="Explorer box with folder open and moused over in VSCode" src="../images/create_file.png" width = "200">
+<img title="explorer_box_moused_over" alt="Explorer box with folder open and moused over in VSCode" src="./images/create_file.png" width = "200">
 
 ## 3. How to create a virtual environment
 
@@ -72,7 +72,7 @@ Step 0. Why to create a virtual environment
 
 Step 1. In a new Jupyter notebook file, click "Select Kernel" in top right of VSCode
 
-<img title="Select Kernel button" alt="Select Kernel button in new Jupyter notebook" src="../images/kernel_button.png" height = "200">
+<img title="Select Kernel button" alt="Select Kernel button in new Jupyter notebook" src="./images/kernel_button.png" height = "200">
 
 Step 2. Select "Select Another Kernel..."
 
